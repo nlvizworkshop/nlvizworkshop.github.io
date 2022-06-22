@@ -7,6 +7,8 @@
 // Scripts
 // 
 
+window.location.replace("https://nlvizworkshop2022.com/");
+
 window.addEventListener('DOMContentLoaded', event => {
 
     // Activate Bootstrap scrollspy on the main nav element
